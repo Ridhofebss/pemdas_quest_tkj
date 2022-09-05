@@ -1,0 +1,13 @@
+sisi1 = 20
+
+sisi2 = 20
+luas_p = sisil * sisi2
+print("luas persegi panjang adalah", luas_p)
+
+print('luas persegi panjang adalah', luas pp)
+
+#Rumus Trapesium 1/2 * (a+b) * tinggi
+print('Trapesium')
+a=6
+b=10
+t=8
